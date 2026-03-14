@@ -1,6 +1,6 @@
 # A Sober Look at the Robustness of CLIPs to Spurious Features
 
-This readme file is an outcome of the [CENG7880 (Fall 2025)](https://metu-trai.github.io/) project for reproducing a paper which does not have an implementation. See [CENG501 (Spring 2021) Project List](https://github.com/metu-trai/Projects2025) for a complete list of all paper reproduction projects.
+This readme file is an outcome of the [CENG7880 (Fall 2025)](https://metu-trai.github.io/) project for reproducing a paper which does not have an implementation.
 
 # 1. Introduction
 
